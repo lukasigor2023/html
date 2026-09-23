@@ -22,7 +22,7 @@ var locations =[{
 	"total_review":"17",
 	"rent_address":"122-140 N Morgan St, Chicago, IL 60607, USA",
 	"image":'assets/img/product/product-1.jpg',
-	"profile_image":'assets/img/profiles/avatar-01.jpg'
+	"profile_image":'assets/img/profiles/avatar-01.png'
 	}, {
 		
 	"id":02,
@@ -38,7 +38,7 @@ var locations =[{
 	"rent_address":"470 Park Ave S, New York, NY 10016",
 	"total_review":"17",
 	"image":'assets/img/product/product-2.jpg',
-	"profile_image":'assets/img/profiles/avatar-02.jpg'
+	"profile_image":'assets/img/profiles/avatar-02.png'
 	}, {
 	"id":03,
 	"lat":53.468665,
@@ -53,7 +53,7 @@ var locations =[{
 	"total_review":"17",
 	"rent_address":"122-140 N Morgan St, Chicago, IL 60607, USA",
 	"image":'assets/img/product/product-3.jpg',
-	"profile_image":'assets/img/profiles/avatar-03.jpg'
+	"profile_image":'assets/img/profiles/avatar-03.png'
 	}, {
 	"id":04,
 	"lat":53.463894,
@@ -68,7 +68,7 @@ var locations =[{
 	"total_review":"17",
 	"rent_address":"470 Park Ave S, New York, NY 10016",
 	"image":'assets/img/product/product-4.jpg',
-	"profile_image":'assets/img/profiles/avatar-04.jpg'
+	"profile_image":'assets/img/profiles/avatar-04.png'
 	}, {
 	"id":05,
 	"lat":53.466359,
@@ -83,7 +83,7 @@ var locations =[{
 	"total_review":"17",
 	"rent_address":"122-140 N Morgan St, Chicago, IL 60607, USA",
 	"image":'assets/img/product/product-5.jpg',
-	"profile_image":'assets/img/profiles/avatar-05.jpg'
+	"profile_image":'assets/img/profiles/avatar-05.png'
 	},
 	{
 		"id":06,
@@ -99,7 +99,7 @@ var locations =[{
 		"rent_address":"470 Park Ave S, New York, NY 10016",
 		"total_review":"17",
 		"image":'assets/img/product/product-2.jpg',
-		"profile_image":'assets/img/profiles/avatar-02.jpg'
+		"profile_image":'assets/img/profiles/avatar-02.png'
 		}, {
 		"id":07,
 		"lat":53.468665,
@@ -114,7 +114,7 @@ var locations =[{
 		"total_review":"17",
 		"rent_address":"122-140 N Morgan St, Chicago, IL 60607, USA",
 		"image":'assets/img/product/product-3.jpg',
-		"profile_image":'assets/img/profiles/avatar-03.jpg'
+		"profile_image":'assets/img/profiles/avatar-03.png'
 		}, {
 		"id":08,
 		"lat":53.463894,
@@ -129,7 +129,7 @@ var locations =[{
 		"total_review":"17",
 		"rent_address":"470 Park Ave S, New York, NY 10016",
 		"image":'assets/img/product/product-4.jpg',
-		"profile_image":'assets/img/profiles/avatar-04.jpg'
+		"profile_image":'assets/img/profiles/avatar-04.png'
 		}, {
 		"id":09,
 		"lat":53.466359,
@@ -144,7 +144,7 @@ var locations =[{
 		"total_review":"17",
 		"rent_address":"122-140 N Morgan St, Chicago, IL 60607, USA",
 		"image":'assets/img/product/product-5.jpg',
-		"profile_image":'assets/img/profiles/avatar-05.jpg'
+		"profile_image":'assets/img/profiles/avatar-05.png'
 		}
 	];
 

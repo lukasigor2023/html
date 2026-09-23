@@ -35097,3 +35097,26 @@ table.table.dataTable > thead > tr th {
 
 .brand-name { font-family: 'Playfair Display', serif !important; font-size: inherit !important; font-weight: 600 !important; line-height: inherit !important; }
 
+/* Natural depth for the homepage service photography. */
+.service-photo-3d {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1.48;
+  object-fit: cover;
+  object-position: center;
+  filter: saturate(1.05) contrast(1.03);
+  transform: translateZ(0) scale(1.001);
+  transition: transform 500ms cubic-bezier(.2, .7, .2, 1), filter 500ms ease;
+}
+
+.place-img:hover .service-photo-3d {
+  filter: saturate(1.1) contrast(1.06) brightness(1.03);
+  transform: translateZ(0) scale(1.045);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .service-photo-3d {
+    transition: none;
+  }
+}
+
